@@ -230,19 +230,22 @@ function create_config( )
     "spam",
     "info",
     "linkpv",
-    "addplug"
+    "tex",
+    "chuck_norris",
+    "webshot",
+    "google"
     },
     sudo_users = {81444630},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[#Telefire #v5 - #thankyou #very #mach
-شما را بخاطر انتخاب فایر تحسین میکنیم
+    about_text = [[#Telehaul #v5 - #thankyou #very #mach
+شما را بخاطر انتخاب هیول تحسین میکنیم
 
 #Admins_sudo
-@ashi_admin1_kaboos
+@ashi_king_kaboos
 ]],
     help_text_realm = [[
-Realm Commands:
+لیست دستورات
 
 creategroup [Name]
 Create a group
@@ -304,12 +307,12 @@ bc [group_id] [text]
 bc 123456789 Hello !
 This command will send text to [group_id]
 
+نیازی به!و/نیست
 
-
-#sudo_user @ashi_admin1_kaboos
+#sudo_user @ashi_king_kaboos
 ]],
     help_text = [[
-Commands list :
+لیست دستورات
 
 kick [username|id]
 You can also do it by reply
@@ -404,7 +407,9 @@ will return group logs
 banlist
 will return group ban list
 
-#sudo_user @ashi_admin1_kaboos
+نیازی به !و/نیست
+
+#sudo_user @ashi_king_kaboos
 
 ]]
   }
