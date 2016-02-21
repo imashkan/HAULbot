@@ -233,7 +233,8 @@ function create_config( )
     "tex",
     "chuck_norris",
     "webshot",
-    "google"
+    "google",
+    "calculator"
     },
     sudo_users = {81444630},--Sudo users
     disabled_channels = {},
